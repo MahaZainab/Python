@@ -5,4 +5,4 @@ If you are from non-IT background and fed up from your existing pay package and 
 
 ### Key attribute to rule in IT field is consistency in your actions with smart and hard work.
 If you will follow this tutorial series the only thing you will practice is consistency, rest will be on our shoulders
-So lets start our practice and implement all the lectures in the given sequence
+So lets start our practice and implement all the lectures in the given sequence.
